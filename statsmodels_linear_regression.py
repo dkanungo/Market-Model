@@ -1,8 +1,5 @@
 # Standard Linear Regression: The Market Model
 
----
-
-
 An asset's Market Model (MM) is a standard time series regression of the the realized excess returns of the asset against the realized excess returns of the market. Excess returns are defined as returns in excess of some benchmark such as the risk-free rate. A security's MM is formulated as:
 
 
